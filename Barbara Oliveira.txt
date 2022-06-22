@@ -1,0 +1,14 @@
+Fluter
+O que é: é um framework que possibilita a criação de de aplicativos tanto Android 
+quanto iOS. Ele possibilita a criação de App utilizando o mesmo código fonte tanto pra Android quanto iOS. 
+
+Xamarin
+O que é: também é um framework que possibilita a criação de apps para Android e iOS, 
+porém, não é possível utilizar 100% do código fonte em ambos os sistemas. 
+
+Ionic
+O que é:  também é um framework que possibilita a criação de apps e prove uma solução de mais alto nível em termos de código e, consequentemente, projeto. Estamos falando do TypeScript e do Angular
+
+React Native
+é um framework que possibilita a criação de de aplicativos tanto Android 
+quanto iOS. Ele possibilita a criação de App utilizando o JAva Script
